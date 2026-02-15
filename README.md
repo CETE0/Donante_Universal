@@ -1,4 +1,3 @@
-```markdown
 # Donante Universal
 
 Obra con sincronización en tiempo real entre su bomba de agua y el tanque séptico de la ISS.
@@ -11,4 +10,4 @@ Si la conexión a la NASA (o el wifi) no está disponible, el sistema activa aut
 
 ## Componentes
 
-El hardware consiste en una Raspberry Pi 4B, un driver motor L298N, una bomba de agua DC 12V. El software requiere Python 3.7+ con las bibliotecas RPi.GPIO y lightstreamer-client-lib.# Donante_Universal
+El hardware consiste en una Raspberry Pi 4B, un driver motor L298N, una bomba de agua DC 12V. El software requiere Python 3.7+ con las bibliotecas RPi.GPIO y lightstreamer-client-lib.
